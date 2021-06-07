@@ -16,7 +16,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.11.1",
     "html-to-image": "^0.1.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "v-charts": "^1.19.0",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.4",
